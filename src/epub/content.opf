@@ -30,12 +30,12 @@
 		<dc:title id="title">Clotel</dc:title>
 		<meta property="file-as" refines="#title">Clotel</meta>
 		<meta property="title-type" refines="#title">main</meta>
-      <dc:title id="subtitle">or, The President’s Daughter: A Narrative of Slave Life in The United States</dc:title>
-      <meta property="file-as" refines="#subtitle">President’s Daughter, or the: A Narrative of Slave Life in The United States</meta>
-      <meta property="title-type" refines="#subtitle">subtitle</meta>
-      <dc:title id="fulltitle">Clotel; or, The President’s Daughter: A Narrative of Slave Life in The United States</dc:title>
-      <meta property="file-as" refines="#fulltitle">Clotel; or, The President’s Daughter: A Narrative of Slave Life in The United States</meta>
-      <meta property="title-type" refines="#fulltitle">extended</meta>
+		<dc:title id="subtitle">or, The President’s Daughter: A Narrative of Slave Life in The United States</dc:title>
+		<meta property="file-as" refines="#subtitle">President’s Daughter, or the: A Narrative of Slave Life in The United States</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Clotel; or, The President’s Daughter: A Narrative of Slave Life in The United States</dc:title>
+		<meta property="file-as" refines="#fulltitle">Clotel; or, The President’s Daughter: A Narrative of Slave Life in The United States</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Children of presidents -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Women slaves -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Jefferson, Thomas, 1743-1826 -- Relations with women -- Fiction</dc:subject>
@@ -57,10 +57,10 @@
 		<meta property="term" refines="#subject-6">sh2007100489</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2007100670</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">The daughters of U.S. President Thomas Jefferson use their wits to try to escape American slavery.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The first published novel by a Black American author combines real-life stories, including his own story of escaping slavery and recollections he heard while helping others escape, with abolitionist agitprop, revealing ephemera from the newspapers of the time, and sympathetic (if somewhat melodramatic) characters. What emerges from this collage is an indictment of slavery and of American hypocrisy about liberty that found an enthusiastic and enraged audience when it was published in 1853.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2046</dc:source>
@@ -75,10 +75,9 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80033934</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Simon Maris</dc:contributor>
+		<meta property="file-as" refines="#artist">Maris, Simon</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Simon_Maris</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Project Gutenberg</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Project Gutenberg</meta>
@@ -87,6 +86,7 @@
 		<dc:contributor id="producer-1">David M. Gross</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Gross, David M.</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://sniggle.net/TPL/</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-1">http://id.loc.gov/authorities/names/no2009011220</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>

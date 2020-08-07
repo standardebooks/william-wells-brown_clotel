@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="content.opf">
-		<ignore>
-			<code>m-030</code>
-			<reason>Introduction is anonymous.</reason>
-		</ignore>
-	</file>
 	<file path="epigraph.xhtml">
 		<ignore>
 			<code>s-033</code>
 			<reason>Epigraph is an en-US quote.</reason>
-		</ignore>
-	</file>
-	<file path="halftitle.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Linter is aesthetically challenged.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>

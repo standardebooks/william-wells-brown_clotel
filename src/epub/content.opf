@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-wells-brown/clotel</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-08-09T20:24:52Z</dc:date>
+		<meta property="dcterms:modified">2020-08-09T20:24:52Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -30,11 +30,11 @@
 		<dc:title id="title">Clotel</dc:title>
 		<meta property="file-as" refines="#title">Clotel</meta>
 		<meta property="title-type" refines="#title">main</meta>
-		<dc:title id="subtitle">or, The President’s Daughter: A Narrative of Slave Life in The United States</dc:title>
-		<meta property="file-as" refines="#subtitle">President’s Daughter, or the: A Narrative of Slave Life in The United States</meta>
+		<dc:title id="subtitle">Or, The President’s Daughter: A Narrative of Slave Life in The United States</dc:title>
+		<meta property="file-as" refines="#subtitle">President’s Daughter, The: A Narrative of Slave Life in The United States</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
-		<dc:title id="fulltitle">Clotel; or, The President’s Daughter: A Narrative of Slave Life in The United States</dc:title>
-		<meta property="file-as" refines="#fulltitle">Clotel; or, The President’s Daughter: A Narrative of Slave Life in The United States</meta>
+		<dc:title id="fulltitle">Clotel; Or, The President’s Daughter: A Narrative of Slave Life in The United States</dc:title>
+		<meta property="file-as" refines="#fulltitle">Clotel; Or, The President’s Daughter: A Narrative of Slave Life in The United States</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Children of presidents -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Women slaves -- Fiction</dc:subject>
@@ -61,12 +61,13 @@
 		<dc:description id="description">The daughters of U.S. President Thomas Jefferson use their wits to try to escape American slavery.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The first published novel by a Black American author combines real-life stories, including his own story of escaping slavery and recollections he heard while helping others escape, with abolitionist agitprop, revealing ephemera from the newspapers of the time, and sympathetic (if somewhat melodramatic) characters. What emerges from this collage is an indictment of slavery and of American hypocrisy about liberty that found an enthusiastic and enraged audience when it was published in 1853.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Clotel&lt;/i&gt; has a complex publishing history, with four separate editions published between 1853 and 1867. These editions contain huge differences in characters and plotting, so much so that they might each be considered separate novels in their own right. This edition is based on the first edition of 1853.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2046</dc:source>
 		<meta property="se:production-notes">(1) I chose to go with the first edition of this book. Later editions were substantially different: changing the names of characters, the title of the book, and making significant plot changes. See https://www.persee.fr/doc/cchav_0184-1025_2002_num_32_1_1334 for some notes on the various editions. (2) The PG transcription omitted the author's autobiographical introduction; I have restored this. (3) The original usually uses "negro" uncapitalized; PG corrected this to "Negro"; I reverted this to the original. (4) The original smooshes a lot of back-and-forth dialog into single paragraphs; I've untangled this into one-paragraph-per-speaker in the modern style. (5) In Chapter 12, a character's pronunciation of the word hair is confusingly rendered as "'hair'" in one place, "'hare'" in another; I am guessing that the intention of the author was "har" (a later edition supports this guess), which is how he renders it in another chapter, and I have altered the chapter to use "har".</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">71728</meta>
+		<meta property="se:reading-ease.flesch">66.07</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Clotel</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-wells-brown_clotel</meta>
 		<dc:creator id="author">William Wells Brown</dc:creator>
@@ -94,6 +95,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>

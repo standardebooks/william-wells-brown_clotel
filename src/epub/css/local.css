@@ -158,8 +158,3 @@ table[epub|type~="z3998:drama"]{
 [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
-
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}

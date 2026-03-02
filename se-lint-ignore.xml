@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="epigraph.xhtml">
-		<ignore>
-			<code>s-033</code>
+		<ignore code="s-033">
 			<reason>Epigraph is an en-US quote.</reason>
 		</ignore>
 	</file>

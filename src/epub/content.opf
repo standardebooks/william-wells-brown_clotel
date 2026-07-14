@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Clotel; Or, The President’s Daughter: A Narrative of Slave Life in The United States</dc:title>
 		<meta property="file-as" refines="#fulltitle">Clotel; Or, The President’s Daughter: A Narrative of Slave Life in The United States</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Children of presidents -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Women slaves -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Jefferson, Thomas, 1743-1826 -- Relations with women -- Fiction</dc:subject>
